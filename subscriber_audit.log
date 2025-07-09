@@ -1,0 +1,10 @@
+[2025-06-01 06:20:40] ben: admin | Action: Subscribed | Topic: iot/login | IP: 127.0.0.1 | Message: hi
+[2025-06-01 07:41:36] ben: admin | Action: Subscribed | Topic: iot/login | IP: 127.0.0.1 | Message: HMAC verification failed!
+[2025-06-16 10:36:01] Goodness: admin | Action: Subscribed | Topic: iot/sensor | IP: 127.0.0.1 | Message: HMAC verification failed!
+[2025-06-16 10:57:16] Mac: viewer | Action: Subscribed | Topic: iot/login | IP: 127.0.0.1 | Message: yea, it worked
+[2025-06-21 08:49:25] Goodness: admin | Action: Subscribed | Topic: iot/control | IP: 127.0.0.1 | Message: HMAC verification failed!
+[2025-06-21 09:02:26] Goodness: admin | Action: Subscribed | Topic: iot/login | IP: 127.0.0.1 | Message: winner
+[2025-06-21 09:03:48] Goodness: admin | Action: Subscribed | Topic: iot/sensor | IP: 127.0.0.1 | Message: hi
+[2025-06-21 09:05:28] Daniel: sensor | Action: Subscribed | Topic: iot/sensor | IP: 127.0.0.1 | Message: Today is Monday
+[2025-06-21 09:15:29] Goodness: admin | Action: Subscribed | Topic: iot/sensor | IP: 127.0.0.1 | Message: yea
+[2025-06-21 09:17:40] Goodness: admin | Action: Subscribed | Topic: iot/sensor | IP: 127.0.0.1 | Message: you are here

@@ -1,0 +1,79 @@
+[2025-05-31 07:04:36] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-05-31 07:04:44] ben: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: JUUyGloK0leMTppb8n7o8D+1LbdxT1IIFyc67XE8mWAQ4BnifmZtRddzY+MQ+FwfFT6StMDafCNFFh+yD6X9Cw==
+[2025-05-31 07:08:25] Goodness admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-05-31 07:08:32] Goodness admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: lind/KpdwtmVtA/0chDHiMenMZd+9ptG/1mmxDatJpLNvvKIqbx4/eG2xu87mu57ZnjVMN7htQS+13Gk+KsnkA==
+[2025-05-31 07:09:41] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-05-31 07:09:46] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: qP1FDH4OkUPIsvQMnGZoUL1/4Pi6ZHpJNjyulKxMY0sbYd5tk7Mz7Rr6UCCMOcAxkPVzPCyGk6yILvXZvXIxUQ==
+[2025-05-31 07:10:40] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-05-31 07:10:44] ben: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: LrQrsydPjQ2xPdS7OyjalFxIr6qdWvfO4z87CBF3HBhuyAAVa0f6drD2eKA4eYfcZAgVIUxxggOnf1at+grVKA==
+[2025-05-31 07:12:11] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-05-31 07:12:15] ben: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: ytn8qDmZmJ+q5cvJj0VFGqtx8ca86MSA/TtXj2tyQ5ECs4RX7iCuVcKjT8PmwSYn5ZoCWRj1paQXKcoKnqWTFw==
+[2025-05-31 08:18:28] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-05-31 08:18:31] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: kT6i+yQ8YmuQdzf0tncB24o42W/gbcvO6VpKa4DBHsgQ6Vw5YvLOH3Ge/GZa5CVUUNeX/yaEGyk2trmgUx6RLw==
+[2025-05-31 12:03:02] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-01 05:21:33] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-01 05:21:40] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: VqfXlhQOIU2yBKTG3iDnJPVZxjRbnIRUeqFqPLv3GemSLccul+Z3xJnzRJtiC0br1snG+VGdtSg8kfiy7MCtCw==
+[2025-06-01 06:03:02] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-01 06:03:12] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: rq3EtPBdK8DzN3bB9QM/JV9OtRytZpBYIJUMwWJoCsfAihF2wKlsipDqyIv/MYBfJtzru0AXA4jSICr94pV7bw==
+[2025-06-01 06:04:59] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-01 06:05:03] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: 2SNE6E6mi4JDc88UqWEeMA/GNigS7chb1KYiO9wJ7YcOaXcxyqag/mgYgENtxIe7W3GhrwpDqitSB0SMelJkkg==
+[2025-06-01 06:20:36] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-01 06:20:40] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: P8F8nC0n/0RgDnVYFl3XNFAQOHz8FhT4Y5T4+JD0LDhs8vM4+OiTRUKGv5e9sJCQRSxPlV1EMoVr25sPnVZ/vQ==
+[2025-06-01 06:35:38] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-01 06:39:09] ben: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: MfH+neIkNe68dWY21sETASsJ7jY3MVMX3/Ov0eBMNv+wcV1yv/kLaP55PC3lPlKl7XYV9CO/RacTePosJ4uVAg==
+[2025-06-01 07:41:27] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-01 07:41:36] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: a4DBoidzxk1A9YqRKgeSZMFhHAYLnANjPJoU/TyFZ18In19gXrSi5E3VKM4Cy8eNwZ4aNLuXCSCPadgrrUT89w==
+[2025-06-14 06:17:22] Daniel: sensor | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-14 06:18:00] Daniel: sensor | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: /ugM9r+I0kVwF4W1fw5gAvHtFxXiSgaZqWmAqVuutT7RXOdFvObKRWqGJMJM4/NNF+FD821dNh2zXKl2gP4Aaw==
+[2025-06-16 08:02:03] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 08:23:10] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:01:24] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:01:29] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: bwzER86eSBQQuj6ZcOE6lBETCWCV/Rq75is8WGVlG9kCShK5DqAv2meLrzWV5BIaTrSLz2uXHoUkkGdHDqulyw==
+[2025-06-16 10:32:56] Mac: viewer | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:35:55] Daniel: sensor | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:36:01] Daniel: sensor | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: HZ1JdljSN7NXCm476eUyzPDxVOtHv6ikKznBxDPqususQaDulzy1/WDDvGDUrbA0t/pYUNQsmcdnp7mdctjCrEQL2K6Hjl5q91xn6FreGhEH4mh8acot1D5IdB35TaO6
+[2025-06-16 10:37:01] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:37:18] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: 4qebZQ37NlrIvL3iMmEszHyW4xGjC1ral6fopl9OowPPQZWh7waB8uCD62yo8c29a5nd7B4fwFQaLK+xoh9cHYV6WpF54TTpuuPnj2f/eio=
+[2025-06-16 10:39:56] Daniel: sensor | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:40:49] Daniel: sensor | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: SeotwPY8qZ+AS56E/fu+MMYyhnkPbI186pYC0gkYG4TeSbuVJfWDpyl+jkcdgr/glxGup2mMrHuEtT9mGVB/e8U0IFhHP9hdUH9ToNrdNhRdVnJoVfpzH+MW/DX+Ekwy
+[2025-06-16 10:43:32] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:45:40] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:48:42] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:55:43] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:56:04] Goodness: admin | Publish | Topic: iot/viewer | IP: 127.0.0.1 | Encrypted Message: Izi1dgAZ9c0UB5vY5u+fGibRZEHzX68SZlti0kFjfBPYZVOptHw+96sKVXZEa13DI9mOCQgfpfRZbHbIflHjrQ==
+[2025-06-16 10:57:07] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-16 10:57:16] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: +xPKbXoxqk5VfL1exsGbfZvigyJMdcjHWD7/7Q85dB99yDDDPBbrGVusabuXv1agyl6Wbnhk/rti5BDalkDgpg==
+[2025-06-18 11:36:49] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 08:30:16] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 08:30:47] Goodness: admin | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: YjymTeNG9IsaqFa13NFSx9kxYphJiv4igJwa5cni7x5IG2917qEwOcR5I3+m5d4BVdfoM8nGECrktEgEEFPT16sneBlkOEg6UQjbq60+RDQ=
+[2025-06-21 08:34:58] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 08:35:23] Goodness: admin | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: /wr0j6XGVQLGfko0pN/dxDQlGnbearHGLIuveUx+30uuDahQ/dhfSMhkt5I5g9Nnk/Bn6MPG4R90/M2WnfM+WZ2Uo33T8vaS0Kh8i1an3Zg=
+[2025-06-21 08:36:24] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 08:36:33] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: jPFahMiyHk2bV7Yrz5Uf/aPs4dvUN3mSgznn7pfPFzQmyYnUx9fJBWEcvJY6t1jesgZ3uXf0ay+MapKHWEvd9A==
+[2025-06-21 08:44:03] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 08:44:06] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: FcJLbpIojixkQAvXxYvXK0DWuP6+6UD/Cd+YHsgWX7OLMPQTWwrKdyZL9EnvzDYLh3WSpnntHAbrZOvblrdWNA==
+[2025-06-21 09:02:19] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 09:02:26] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: N2mIH+y/kNmWL2DAR7EZGHDTcJwDoBadd5m+ZJ2m4fzlZVF3EXc54PUYSkXLVC5VsYBQ/QJkBDuWjdRF1OOpag==
+[2025-06-21 09:03:40] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 09:03:48] Goodness: admin | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: aIKysmxzLrtkwSNBvxFx4ksXj4lbY3Ro0MDkhudbU0qOvtVYNTV4577yrQmHqS12B0VgGdJFVr9gAihuAgsKyg==
+[2025-06-21 09:05:03] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 09:05:28] Goodness: admin | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: RSPQNcQvCyhYl31HgwFF0niQsQtFuNQVumCNQATOQMUuwgvK8sPNcvvmXQTNJGKaOq5VYq8iaJUxlK9x4ZGUoA==
+[2025-06-21 09:14:27] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 09:14:45] ben: admin | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: wvF06jrITGcFdtYxoulhZAjfs7V9i8IIwVHUt32hRjREOqNhHAIH29Buhj0BPOia3cIzSfKUZPmgnpSdc1hlYg==
+[2025-06-21 09:15:21] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 09:15:29] ben: admin | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: cgKg70RrcbLcHvfC+ojlNY2yXk4pLLPcCKFDjN0YFY5qI3bdCYKlnaXj13+avsBYOO5AxCpRIFVCnpiWFunvhQ==
+[2025-06-21 09:16:06] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 09:16:11] ben: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: 8cDTvEI9u3a1fxCHdIFnHvTi/GHBtsfFYZ5Ey4UK35RoB4eh3ujfQo4b11djBnGXbkVuZxLLR3q8OczAXMB/dw==
+[2025-06-21 09:16:36] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 09:16:42] ben: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: J+fQ5pRwmWSBj/FzKxKAEu9V6U0e41Fd6VyfYOqON1V5n/xof1zUTb2a1g6n1QDIJuE6xe9qi7sgYEiQv5R+sg==
+[2025-06-21 09:17:21] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 09:17:40] ben: admin | Publish | Topic: iot/sensor | IP: 127.0.0.1 | Encrypted Message: wqnSqv+NBE05jhSW6i9UsfzlKFe1SSF2NLp8DNhe31X62WTWrCoEkvjTgJH3ZKg1HdJFFzdJOWCqzhQFmMTAfQ==
+[2025-06-21 11:24:31] Mac: viewer | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 11:26:39] Goodness: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-21 11:26:51] Goodness: admin | Publish | Topic: iot/login | IP: 127.0.0.1 | Encrypted Message: +fyN32B0cpk2kBUdV71M/dCR75ejZJfZgeH0eLmTNTl43apS6vb6ugAWpUCwLn7QfJvHE3IMckzm+adpHZ4haQ==
+[2025-06-21 11:37:51] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-24 06:58:01] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-06-24 06:58:18] Mac: viewer | Login | Topic: N/A | IP: 127.0.0.1
+[2025-07-06 12:52:52] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-07-08 06:52:03] ben: admin | Login | Topic: N/A | IP: 127.0.0.1
+[2025-07-09 01:10:30] Mac: viewer | Login | Topic: N/A | IP: 127.0.0.1

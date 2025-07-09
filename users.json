@@ -1,0 +1,46 @@
+{
+    "chioma": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "admin"
+    },
+    "Edith": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "sensor"
+    },
+    "ben": {
+        "password": "$2b$12$5RQfEcj5lLU6cFVDvHlvDeyv02QytVZpZF1tEJuVK2lnv6Djx/4FO",
+        "role": "admin",
+        "attempts": 0,
+        "lock_time": 0
+    },
+    "Mac": {
+        "password": "$2b$12$n3enJ5bHLgjLVMEocxbz..qRCXXhiEvAtvLdctmFS00wPUxKcxHUa",
+        "role": "viewer",
+        "attempts": 0,
+        "lock_time": 0
+    },
+    "Ken": {
+        "password": "$2b$12$o8OVmqsqV8LoGikbWA4tFOMvBV3dy0BfSd92XNahV8v57hBvS06Ee",
+        "role": "sensor",
+        "attempts": 0,
+        "lock_time": 0
+    },
+    "Goodness": {
+        "password": "$2b$12$LRUGooNPmK2syoeBUwuTlOUGQAk29d26ZVpZEc35WUeDUxWfDfM6C",
+        "role": "admin",
+        "attempts": 0,
+        "lock_time": 0
+    },
+    "Daniel": {
+        "password": "$2b$12$zMARFlv4u0GfLhQvjjVxA.kSXkiQqGT0FKwurzxJjJuJuR9aEIp8W",
+        "role": "sensor",
+        "attempts": 0,
+        "lock_time": 0
+    },
+    "Nk": {
+        "password": "$2b$12$YHJztgbbG4vRiK57xC9ebeGrL5KKTPkFUOmHS2qJ3kl4LPL7WP.Pm",
+        "role": "sensor",
+        "attempts": 0,
+        "lock_time": 0
+    }
+}
