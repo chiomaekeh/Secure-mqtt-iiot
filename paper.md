@@ -1,5 +1,5 @@
 
-Title: 'Secure-MQTT-IIoT: A Privacy-Preserving Communication System for Industrial IoT Using AES and OTP Authentication'
+Title: An enhanced MQTT Communication Protocol for Privacy Preservation in Industrial Internet of Things (IIot) Systems
 tags:
 1.	MQTT
 2.	IIoT
