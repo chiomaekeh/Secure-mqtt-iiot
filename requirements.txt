@@ -1,0 +1,4 @@
+
+Paho-mqtt
+Pycryptodome
+bcrypt
