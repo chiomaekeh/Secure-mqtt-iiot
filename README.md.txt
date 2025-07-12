@@ -1,5 +1,5 @@
   
-# Secure MQTT IIoT Communication System
+# An enhanced MQTT Communication Protocol for Privacy Preservation in Industrial Internet of Things (IIot) Systems
 A secure and user-friendly MQTT-based communication system for Industrial IoT (IIoT), built with Python. This project implements AES encryption, OTP-based authentication, role-based access control (RBAC), GUI interfaces, and audit logging, making it ideal for secure IIoT deployments. This system supports both publishers and subscribers with individualized login interfaces.
 ## 🔐 Features
 1.	Secure User Login and Registration  
