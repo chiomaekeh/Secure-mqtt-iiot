@@ -9,11 +9,13 @@ tags:
   - Python
   - GUI
 authors:
-  - name: "Chioma Goodness Ekeh"
+  - name: "Ekeh Chioma Goodness"
     orcid: 0009-0006-0478-078X
     affiliation: 1
+  - name: "Onwuachu Uzochukwu Christian"
+  - affiliation: 1
 affiliations:
-  - name: "Imo State University"
+  - name: "Department of Computer Science, Imo State University"
     index: 1
 date: 2025-07-11
 bibliography: paper.bib
