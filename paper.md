@@ -12,8 +12,7 @@ authors:
   - name: "Ekeh Chioma Goodness"
     orcid: 0009-0006-0478-078X
     affiliation: 1
-  - name: "Onwuachu Uzochukwu Christian"
-  - affiliation: 1
+    
 affiliations:
   - name: "Department of Computer Science, Imo State University"
     index: 1
